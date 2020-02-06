@@ -10,6 +10,9 @@ void main(){
 
 
 class Home extends StatefulWidget {
+
+  TextEditingController weight
+
   @override
   _HomeState createState() => _HomeState();
 }
